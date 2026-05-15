@@ -16,7 +16,11 @@
 
 ## 📦 安装本 Skill
 
-直接将仓库中的 `bilinote-cli-skill`  文件夹复制到 Claude Code （或其他 agent）的 skills 目录。
+```bash
+npx skills add FisherRone/bilinote-cli-skill
+```
+
+- 或者直接将仓库中的 `bilinote-cli-skill`  文件夹复制到 Claude Code （或其他 agent）的 skills 目录。
 
 ## 🚀 使用
 
