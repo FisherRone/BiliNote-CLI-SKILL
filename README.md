@@ -12,7 +12,7 @@
 
 ## ⚙️ 前置条件
 
-这个 skill 本身只是一段指导 AI 的提示词，真正干活的是 [BiliNote-CLI](https://github.com/FisherRone/BiliNote-CLI)。使用前请参照 [BiliNote-CLI](https://github.com/FisherRone/BiliNote-CLI) 中的 `README.md` 完成安装和配置。
+这个 skill 本身只是一段指导 AI 的提示词，真正干活的是 [BiliNote-CLI](https://github.com/FisherRone/BiliNote-CLI)。使用前请参照 [BiliNote-CLI](https://github.com/FisherRone/BiliNote-CLI) 中的 `README.md` 完成安装和配置。也可以先安装本 skill 之后让 agent 帮你完成安装和配置。
 
 ## 📦 安装本 Skill
 
