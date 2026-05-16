@@ -33,7 +33,7 @@ BiliNote-CLI 是一个专门用于 AI 视频笔记生成的  CLI 工具，支持
 ```
 
 - 除非用户明确要求，一律使用默认调用方式。
-- 使用 `--output` 参数指定笔记生成到**你能访问**的文件夹内。
+- 使用 `--output-dir` 参数指定笔记生成到**你能访问**的文件夹内。
   - 笔记默认保存到：
     - macOS：~/.bilinote/output/notes/
     - windows： C:\Users\<user_name>\.bilinote\output\notes\
