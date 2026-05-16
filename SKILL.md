@@ -1,5 +1,5 @@
 ---
-name: bilinote-agent-helper
+name: bilinote-cli-skill
 description: |
   指导 AI agent 使用 BiliNote-cli 工具为用户的 B 站视频生成 AI 笔记、总结视频内容，或在 B 站上搜索主题并生成调研报告。
   当用户发送 B 站/YouTube/抖音/快手视频链接要求"记笔记"、"做总结"、"整理要点"，或仅有链接，什么都不说时触发；
@@ -8,11 +8,11 @@ description: |
   即使链接不是 B 站（YouTube、抖音、快手、本地视频），只要用户需要 AI 生成视频笔记，也应该使用此 skill。
 ---
 
-# BiliNote Agent Helper
+# BiliNote-CLI.SKILL
 
 本 skill 指导 AI agent 通过终端调用 [BiliNote-CLI](https://github.com/FisherRone/BiliNote-CLI) 工具，满足用户的视频笔记和搜索调研需求。
 
-## BiliNote-cli 的功能
+## BiliNote-CLI 的功能
 
 BiliNote-CLI 是一个专门用于 AI 视频笔记生成的  CLI 工具，支持：
 - 多平台视频：Bilibili、YouTube、抖音、快手、本地视频
